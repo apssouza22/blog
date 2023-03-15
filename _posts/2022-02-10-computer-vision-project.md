@@ -54,7 +54,7 @@ In the notebooks, you will find links to some articles, and I have also prepared
 
 ## Project overview
 
-{% youtube HgB54rRLwrg %}
+{% include youtube.html id="HgB54rRLwrg" %}
 
 ##Conclusion
 One of the most powerful types of AI is computer vision which you’ve almost surely experienced in any number of ways without even knowing it. Thanks to advances in artificial intelligence and innovations in deep learning and neural networks, the field has been able to take great leaps.

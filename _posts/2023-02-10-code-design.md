@@ -42,5 +42,5 @@ I have created a project where I designed and implemented a monolithic applicati
 
 I also recorded a video walking through the project highlighting what we have discoursed on this post.
 
-{% youtube KcrCyJzK09I %}
+{% include youtube.html id="KcrCyJzK09I" %}
 

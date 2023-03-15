@@ -69,5 +69,5 @@ If you want to learn more about how to write efficient tests, you can checkout m
 
 I also recorded a video walking through the project highlighting what we have discoursed in this post.
 
-{% embed https://www.youtube.com/watch?v=cYef3KReEzo %}
+{% include youtube.html id="cYef3KReEzo" %}
 
