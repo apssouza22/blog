@@ -7,3 +7,8 @@ node_modules
 # Auxiliary directories
 build/
 debug/
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/aws.xml
+/.idea/science-blog-template.iml
+/.idea/vcs.xml

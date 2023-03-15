@@ -1,7 +1,6 @@
------
+---
 title: Professional MacOS dev Setup 2022
------
-
+---
 This document describes how I set up my developer environment on a new MacBook.
 
 The steps below were tested on **macOS Monterey** (12.03), but should work for more recent versions as well.
