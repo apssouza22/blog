@@ -1,11 +1,11 @@
 # Site settings
-title: Science and Technology Blog
-description: "Blog site for scientific/technical pages."
-url: "https://pranjaldhole.github.io/science-blog-template"
+title: My Thoughts on Software development
+description: "My blog where I share my thoughts on software development"
+url: "https://apssouza22.github.io/blog"
 author:
-  name: "Pranjal Dhole"
-  email: "dhole.pranjal@gmail.com"
-  url: "https://pranjaldhole.github.io"
+  name: "Alexsandro Souza"
+  email: "apssouza22@gmail.com"
+  url: "https://apssouza22.github.io/blog"
 
 # Build settings
 baseurl: /blog/
