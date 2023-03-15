@@ -1,6 +1,5 @@
-
 -----
-title: Profissional MacOS dev Setup 2022
+title: Professional MacOS dev Setup 2022
 -----
 
 This document describes how I set up my developer environment on a new MacBook.

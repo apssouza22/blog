@@ -1,4 +1,3 @@
-
 ---
 title: What is a system bug?
 ---

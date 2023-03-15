@@ -1,4 +1,3 @@
-
 ---
 title: Documentation is NOT a critical success factor in software development
 ---

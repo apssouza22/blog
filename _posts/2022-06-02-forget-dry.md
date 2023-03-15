@@ -1,4 +1,3 @@
-
 ---
 title: Are you starting with microservices? Forget the DRY principle and embrace redundancy!
 ---

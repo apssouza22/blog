@@ -1,4 +1,3 @@
-
 ---
 title: Developers don't like meetings -  That's not true
 ---

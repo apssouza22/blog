@@ -1,4 +1,3 @@
-
 ---
 title: Costs of losing an employee
 ---
