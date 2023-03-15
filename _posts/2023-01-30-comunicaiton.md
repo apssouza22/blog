@@ -1,7 +1,6 @@
 ---
 title: Practical ways to improve team communication
 ---
-###### I am always posting provoking post on my Linkedin, and I have decided to replicate those here. [Let's socialize!](https://www.linkedin.com/in/alexsandro-souza-dev)
 
 Communication is understood to be a critical success factor for software projects. Still, online articles are devoted primarily to formal information flows rather than practical ways of improving communication. In this article, I will provoke you to see the importance of popular tools and processes to help improve communication within a software team.
 

@@ -3,17 +3,17 @@
 		<a href="{{ site.baseurl }}">Home</a>
 
 		<!-- Nav pages -->
-	  {% for page in site.pages %}
-	    {% if page.layout == "page" %}
-	      <a href="{{ site.baseurl }}{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a>
-	    {% endif %}
-	  {% endfor %}
-    
+<!--	  {% for page in site.pages %}-->
+<!--	    {% if page.layout == "page" %}-->
+<!--	      <a href="{{ site.baseurl }}{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a>-->
+<!--	    {% endif %}-->
+<!--	  {% endfor %}-->
+
     <!-- Nav links -->
 	  {% include link.html %}
 
 	</div>
-  
+
   <!-- Nav footer -->
 	{% if site.custom_nav_footer == true %}
 	  {% include nav-footer-custom.html %}

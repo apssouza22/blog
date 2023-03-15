@@ -5,7 +5,7 @@ url: "https://apssouza22.github.io/blog"
 author:
   name: "Alexsandro Souza"
   email: "apssouza22@gmail.com"
-  url: "https://apssouza22.github.io/blog"
+  url: "https://apssouza22.github.io/blog/about"
 
 # Build settings
 baseurl: /blog/
@@ -25,7 +25,7 @@ defaults:
       layout: "post"
 
 # Custom variables
-genre: "Science and Technology Blog" # Blog genre
+genre: "Blog" # Blog genre
 version: "1.0.1"    # Blog site version
 
 # Disqus comments

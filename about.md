@@ -1,35 +1,37 @@
 ---
 layout: page
-title: About Science and Technology Blog
+title: About Alexsandro Souza
 ---
 ## About
 
-This is a simple template for creating a Science and Technology Blog.
+I am passionate about software development and Agile methods. I love solving team and company problems from a tactical and strategic point of view.
 
-The template contain following features:
+I help teams and companies to achieve more. Improving code, processes, flows, architecture, communication and human resources
 
-### Jekyll-based website
-- This code-base is meant to host on [github pages](https://pages.github.com/).
-- Github pages uses [Jekyll](https://jekyllrb.com/) that can convert your
-markdown pages into beautiful looking blog pages without needing to
-write cumbersome HTML code.
-- Once you set up the site, blogging becomes as fast as using any online service
-such as Wordpress, Blogger, etc.
+I am very focused on delivering value to customers as faster and cheaper as possible without giving up quality!
 
-### Free website publishing with Github-pages
-- Since Github public repositories are free, you do not need to pay a cent to
-anyone for publishing your blog.
+Beyond my day-to-day work, I am giving back to positively impact the community with articles, videos, lectures and posts on LinkedIn. Check it out!
 
-### Commenting with Disqus
-- The template has included Disqus comments. So, if enabled, your readers can
-comment on any of your posts.
-- This also makes sharing your writings on social platforms easy.
-- Disqus basic account is for free and avails you with most of its features.
+Main Qualifications:
+• Project management (Agile, Lean, Kanban and Scrum)
+• Software developer with 10+ years in a wide variety of software, system architectures, applications, programming languages and databases. Well-versed in Backend, Frontend and DevOps
+• Excellent knowledge of Java, JavaScript, Golang and Python;
+• Writer and open source contributor;
+• Team leadership, Project management and Agile coach.
 
-### Latex rendering
-- If you have a scientific mind and you do not shy away from equations, the
-website is MathJax enabled. You can simply type your math equations in
-Latex format.
+Skills:
+• Spring (Boot, Cloud, Integration, Batch and Security);
+• Databases (MySQL, Oracle and SQL Server);
+• DevOps (Docker, Kubernetes, Istio, Linux, Networking, AWS, Gitlab and Jenkins);
+• Microservice (Service mesh, Circuit breaker, Service discovery, CQRS, Event sourcing, API Gateway, Distributed authentication and fault-tolerant);
+• Big data(Spark, Cassandra, HDFS and Lambda Architecture)
+• Enterprise Integration (GRPC, SOAP, REST, Socket, and Kafka);
+• Front-end (Angular 4, Bootstrap and jQuery);
+• Best coding practices (SOLID, Object Calisthenics and TDD);
+• Design patterns (MVC, Facade, Observer, Strategy, Adapter, Factory, Singleton, Proxy, CQRS…)
+• Computer vision ( OpenCV, CNN, GAN, Encoders)
+• Machine learning (scikit-learn and Pytourch
+• Agile(Lean, Kanban, XP and Scrum)
+• Others (Regular expressions, Hybrid mobile applications and Arduino).
 
-### Code
-- You can also demonstrate your code in `code blocks`.
+
