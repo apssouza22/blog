@@ -1,7 +1,6 @@
 ---
-title: Lambda Architecture: How to Build a Big Data Pipeline
+title: Lambda Architecture - How to Build a Big Data Pipeline
 ---
-
 The Internet of Things is the current hype, but what kinds of challenges do we face with the consumption of big amounts of data? With a large number of smart devices generating a huge amount of data, it would be ideal to have a big data system holding the history of that data. However, processing large data sets is too slow to maintain real-time updates of devices. The two requirements for real-time tracking and keeping results accurately up to date can be satisfied by building a lambda architecture.
 
 "Lambda architecture is a data-processing architecture designed to handle massive quantities of data by taking advantage of both batch and stream-processing methods. This approach to architecture attempts to balance latency, throughput, and fault-tolerance by using batch processing to provide comprehensive and accurate views of batch data, while simultaneously using real-time stream processing to provide views of online data."

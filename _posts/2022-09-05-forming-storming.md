@@ -12,7 +12,7 @@ The Psychologist Bruce Tuckman has created a model that describes the path that 
 
 When you understand what typically happens in the different phases, you can help your new team become effective more quickly
 
-<img src="https://media-exp1.licdn.com/dms/image/C4E22AQHZvgKMe-yGvw/feedshare-shrink_1280/0/1591307633254?e=1658966400&v=beta&t=6s4hx4sUuLsFWA-zZmvb87CZk2pb4nRvEKeLygav1Z8">
+<img src="hhttps://res.cloudinary.com/practicaldev/image/fetch/s--RHQZJeGX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://media-exp1.licdn.com/dms/image/C4E22AQHZvgKMe-yGvw/feedshare-shrink_1280/0/1591307633254%3Fe%3D1658966400%26v%3Dbeta%26t%3D6s4hx4sUuLsFWA-zZmvb87CZk2pb4nRvEKeLygav1Z8">
 
 ## Forming
 Using either a top-down or bottom-up approach, a team comes together to address a problem and propose solutions. Each member of the team orients themselves to the project task. They begin to establish relationships within the group. It’s typically a time of great positivity.
