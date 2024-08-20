@@ -2,7 +2,7 @@
 title: Building Conversational UI Using AI Agents From Scratch
 ---
 
-<img src="https://img-c.udemycdn.com/course/750x422/6066607_01ad_2.jpg">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YlcQg02daGQ?si=OcacIrRsQX_8F3t8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 I’m excited to share with you the launch of our brand new course: “Building Conversational UI using AI Agents from Scratch: No Frameworks”. This course is designed for those who wish to delve deeply into the world of AI development, learning how to construct sophisticated AI agents without relying on pre-packaged frameworks.
 
