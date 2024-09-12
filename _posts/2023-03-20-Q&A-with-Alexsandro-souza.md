@@ -45,7 +45,9 @@ My team was the platform team. We were responsible for defining the overall arch
 
 **What is your proudest success as an engineering leader?**
 
-A successful system modernization from a monolith to a modern microservices architecture
+One project that I’m particularly proud of is a successful system modernization where we transitioned from a 20-year-old monolithic architecture to a microservices-based system. It was especially meaningful to me because I was the first engineer to join the team, which gave me the opportunity to take a leadership role and have a significant influence on the development process.
+
+Being able to drive such a transformation and work closely with the team to deliver a modern system is something I’m truly proud of.
 
 **Outline your thoughts on open source software development. What is important to get right in open source projects? What open source projects have you worked on? Have you been an open source maintainer, on which projects, and what was your role?**
 
@@ -192,4 +194,10 @@ My innovative and creative mindset and my business and product vision would be v
 During my childhood, I was very sporty. I was particularly interested in football and volleyball. I was always eager to learn and improve, which led me to do various courses, including barbering, business assistant, computer hardware and web development.
 
 Coming from a poor family in Brazil, I had to start working at the age of 15 to help support my family. Balancing school and work was not easy, but I was determined to make the most of my situation and create a better future for myself. 
+
+**Please tell us about a specific example where you had to handle a difficult situation with a direct report and how you handled with it.**
+
+When I managed a very senior team, I initially faced challenges in implementing an effective framework that aligned with my leadership approach. The team had been hired by a previous manager and was already established before I joined, which made it harder to introduce new principles and best practices that I felt were critical.
+
+To address this, it was required a lot of communication and relationship-building. It was a process that required patience and persistence, but over time, we successfully adopted the new framework and saw improvements in both collaboration and productivity.
 
