@@ -14,6 +14,32 @@ When I worked for Bank of America, I helped to develop a transactional applicati
 
 My last great experience was at Deem, where I led the modernization of a monolith system into microservices-based architecture using the state of the art technologies such as Golang, K8s, gRPC, Kafka, Redis, Gitlab, and Service mesh with Istio.
 
+**Have you assigned KPIs to your team and how did you do it? Please share**
+Yes, I have assigned KPIs to my team, and I follow a structured approach to ensure they are meaningful and aligned with business goals.
+
+I begin by breaking down the project into Initiatives(epics) and then further into User functionalities. This way, I ensure the project scope and success criteria are clearly defined and communicated. 
+I use the Now-Next-Later prioritisation technique to help the team focus on what matters most. This approach ensures we balance urgent priorities with longer-term objectives.
+
+For each task category, I define clear and measurable goals, often linked to customer outcomes. One key KPI I track is customer satisfaction through the lens of value delivered, which includes the number of defects or issues found post-delivery. This reflects my commitment to Agile principles — delivering value to stakeholders consistently and at a sustainable pace.
+
+I also conduct regular performance reviews to monitor progress, give feedback, and adjust goals as needed. This iterative process helps the team stay aligned, continuously improving, and remain accountable.
+
+**What is your expirence with AI development**
+I have been working with AI for over 5 years, developing and deploying various projects involving training CNN models and applying Reinforcement Learning. I have also used traditional deep learning models for tasks in computer vision and sentiment analysis.
+
+I've been exploring Large Language Models (LLMs) for over 2 years, applying them to different applications using RAG and other techniques.
+My AI journey includes contributing to well-known open-source projects like AutoGPT, fine-tuning LLMs using LoRA, releasing courses on Udemy, and launching multiple public projects.
+
+You can find all the projects on my GitHub @apssouza22
+
+[](https://youtu.be/S_-6Oi1Zq1o?si=EudpYJZuBcakLhfg)
+[](https://youtu.be/XqBG_Ey4efo?si=8J1Q9LbOumGy6qoy)
+[](https://youtu.be/ScHfE-xG7aw?si=gFn4EBTc4-6MUjOQ)
+[](https://youtu.be/iO6Q-ck1rN0?si=SM4MGamDdE8zys7a)
+[](https://youtu.be/bHOrDT-qDvU?si=xscHREdlTVgEMLgR)
+
+
+
 **Would you describe yourself as a high quality coder? Why?**
 
 Yes. Because  I make sure that my code is readable, maintainable, and follows best practices,  industry standards, and essential programming principles.
@@ -45,9 +71,13 @@ My team was the platform team. We were responsible for defining the overall arch
 
 **What is your proudest success as an engineering leader?**
 
-One project that I’m particularly proud of is a successful system modernization where we transitioned from a 20-year-old monolithic architecture to a microservices-based system. It was especially meaningful to me because I was the first engineer to join the team, which gave me the opportunity to take a leadership role and have a significant influence on the development process.
+One project I’m particularly proud of is a successful system modernization, where we transitioned from a 20-year-old monolithic architecture to a microservices-based system using state-of-the-art technologies such as Docker, Kubernetes, Helm, Istio, gRPC, Kafka, GitLab and Golang.
 
-Being able to drive such a transformation and work closely with the team to deliver a modern system is something I’m truly proud of.
+It was especially meaningful to me because I was the first senior engineer to join the team, which gave me the opportunity to take a leadership role and significantly influence the development process.
+
+In this project, I was responsible for the system’s design and architecture, defining best programming practices and principles, establishing the test strategy, setting up the CI/CD pipeline, and implementing monitoring.
+
+Beyond the technical aspects, I was also involved in hiring, onboarding, and training the entire team. Additionally, I acted as the Agile coach, ensuring we followed Agile best practices effectively.
 
 **Outline your thoughts on open source software development. What is important to get right in open source projects? What open source projects have you worked on? Have you been an open source maintainer, on which projects, and what was your role?**
 
