@@ -15,14 +15,13 @@ When I worked for Bank of America, I helped to develop a transactional applicati
 My last great experience was at Deem, where I led the modernization of a monolith system into microservices-based architecture using the state of the art technologies such as Golang, K8s, gRPC, Kafka, Redis, Gitlab, and Service mesh with Istio.
 
 **Have you assigned KPIs to your team and how did you do it? Please share**
-Yes, I have assigned KPIs to my team, and I follow a structured approach to ensure they are meaningful and aligned with business goals.
+Yes, I have assigned KPIs to my team, and I use a structured approach to make sure they are both meaningful and aligned with business objectives.
 
-I begin by breaking down the project into Initiatives(epics) and then further into User functionalities. This way, I ensure the project scope and success criteria are clearly defined and communicated. 
-I use the Now-Next-Later prioritisation technique to help the team focus on what matters most. This approach ensures we balance urgent priorities with longer-term objectives.
+I start by breaking down the project into initiatives (epics), ensuring that scope, success criteria, and expected outcomes are clearly defined and communicated. For each initiative, I then establish specific, measurable goals—often tied directly to customer outcomes.
 
-For each task category, I define clear and measurable goals, often linked to customer outcomes. One key KPI I track is customer satisfaction through the lens of value delivered, which includes the number of defects or issues found post-delivery. This reflects my commitment to Agile principles — delivering value to stakeholders consistently and at a sustainable pace.
+One key KPI I emphasize is customer satisfaction, which I measure by the amount of value delivered relative to defects or rework. This reflects the Agile principle of focusing on what truly matters: delivering value frequently to stakeholders at a sustainable pace.
 
-I also conduct regular performance reviews to monitor progress, give feedback, and adjust goals as needed. This iterative process helps the team stay aligned, continuously improving, and remain accountable.
+To reinforce accountability and growth, I conduct regular performance reviews where we track progress, provide feedback, and adjust goals as needed. This iterative approach ensures the team stays aligned, continuously improves, and remains focused on business impact.
 
 **What is your expirence with AI development**
 I have been working with AI for over 5 years, developing and deploying various projects involving training CNN models and applying Reinforcement Learning. I have also used traditional deep learning models for tasks in computer vision and sentiment analysis.
