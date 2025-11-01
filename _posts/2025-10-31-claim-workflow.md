@@ -63,7 +63,7 @@ To make this flow simpler, I am describing the "happy path" and the key "human-i
 6.  The **Claim Orchestrator** aggregates these results.
     * **Happy Path:** If the fraud score is low, PXC is clear, and confidence is high, the Orchestrator issues the final `ClaimDecisionApproved` (or `ClaimDecisionRejected`) event.
     * **HITL Path:** If the fraud score is high, PXC is ambiguous, or extraction confidence is low, the Orchestrator pauses the SAGA and publishes a `ClaimNeedsReview` event. The **Manual Review Service** picks this up for a vet. When the vet submits, it publishes `ClaimReviewed`, which the Orchestrator uses to issue the final decision.
-7.  A **Payment Service** (not detailed above) listens for `ClaimDecisionApproved` events and processes the reimbursement.
+7.  A **Payment Service**  listens for `ClaimDecisionApproved` events and processes the reimbursement.
 8.  A **User Data Service** (or Analytics Sink) listens to *all* events (`ClaimSubmitted`, `ClaimDataExtracted`, `ClaimDecisionApproved`, etc.) and streams them into a **central data lake**. This provides a complete, real-time feed for analytics, product insights, and populating the back-office dashboard.
 9.  The **Model Feedback Service** listens for `ClaimReviewed` events to log the vet's corrections and improve the models.
 
@@ -73,7 +73,7 @@ To make this flow simpler, I am describing the "happy path" and the key "human-i
 
 * **Scalability:** Each service can be scaled independently. If OCR is the bottleneck, you can scale only that service.
 * **Resilience:** If the Policy Service fails, it can be retried without affecting the OCR Service. The Orchestrator manages the retry logic, making the system fault-tolerant.
-* **Extensibility:** Need to add a new check (e.g., a "Weather Anomaly Detector" for pet accidents)? You can build a new service and simply add it to the Orchestrator's workflow without touching the 10 other services.
+* **Extensibility:** Need to add a new check? You can build a new service and simply add it to the Orchestrator's workflow without touching the 10 other services.
 * **Phased Automation:** You can launch with a high percentage of claims going to HITL (human-in-the-loop) and gradually "turn up" the automation as the models improve, all without changing the architecture.
 
 #### Disadvantages
